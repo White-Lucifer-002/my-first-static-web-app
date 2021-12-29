@@ -1,22 +1,3 @@
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
-}
-body{
-  background: red;
-  padding: 5px;
-}
-.h1{
-  text-align: center;
-  font-family: "Helvetica";
-  font-size: 10px;
-}
-.p1{
-  color: "yellow";
-  font-family: "Calibri";
-  font-size: 7px;
-}
 .all {
         margin: 0;
         padding: 5px;
