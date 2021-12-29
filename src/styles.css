@@ -17,3 +17,28 @@ body{
   font-family: "Calibri";
   font-size: 7px;
 }
+.all {
+        margin: 0;
+        padding: 5px;
+        background-color: lightgray;
+ }
+.all > h1, .one {
+  margin: 15px;
+  padding: 10px;
+}
+
+.one > h2,p {
+  margin: 4px;
+  font-size: 90%;
+}
+.one {
+  background: white;
+}
+
+a{
+  text-decoration:none;
+  font-weight:bold;
+}
+a:hover {
+  color: red;
+}
