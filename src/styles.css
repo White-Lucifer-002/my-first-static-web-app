@@ -1,7 +1,7 @@
 .all {
         margin: 0;
         padding: 5px;
-        background-color: lightgray;
+        background-color: 'lightgray';
  }
 .all > h1, .one {
   margin: 15px;
@@ -13,7 +13,7 @@
   font-size: 90%;
 }
 .one {
-  background: white;
+  background: 'white';
 }
 
 a{
@@ -21,5 +21,5 @@ a{
   font-weight:bold;
 }
 a:hover {
-  color: red;
+  color: 'red';
 }
